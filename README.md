@@ -66,9 +66,9 @@ Ce projet est une application web basée sur **Spring MVC**, intégrant une gest
 
 ![Page de connexion](screenshots/1er_resltat.PNG)
 
-![Liste des produits](screenshots/2eme_resltat.PNG)
+![Liste des produits](screenshots/2eme_resultat.PNG)
 
-![Page de connexion](screenshots/3eme_ésltat.PNG)
+![Page de connexion](screenshots/3eme _ésultat.PNG)
 ![Page de connexion](screenshots/4eme_résltat.PNG)
 ![Page de connexion](screenshots/5eme_résltat.PNG)
 ![Page de connexion](screenshots/6eme_résltat.PNG)
